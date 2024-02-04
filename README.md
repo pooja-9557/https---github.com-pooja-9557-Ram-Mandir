@@ -1,16 +1,15 @@
-# ram_mandir
+# Ram Mandir
 
-A new Flutter project.
+This Flutter application features two screens: 1)history screen 2)Bhajan screen displays a list of songs.
 
-## Getting Started
+Instructions->
 
-This project is a starting point for a Flutter application.
+Setup Download and Open: Download the project folder and open it in Android Studio or Visual Studio Code.
 
-A few resources to get you started if this is your first Flutter project:
+Running the App Configure Emulator/Device: Launch your preferred emulator or connect your physical device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run the Application: Use the following command in the terminal from the project root directory:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Steps Recap: Download the project folder. Open it in your preferred development environment(VS Code or Android studio). Run the application on your emulator/device.
+
+Thank You!
